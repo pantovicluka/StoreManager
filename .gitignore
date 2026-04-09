@@ -1,0 +1,28 @@
+*.class
+out/
+bin/
+.DS_Store
+.idea/
+*.iml
+CLAUDE.md
+
+# Java build folders
+**/build/
+**/dist/
+**/bin/
+**/out/
+**/target/
+
+# Mac specific
+.DS_Store
+
+# IDE specific
+.idea/
+*.iml
+
+# NetBeans specific
+build/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
